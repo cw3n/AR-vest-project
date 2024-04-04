@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Untitled_Artwork 2",
+  "identifier": "texture:429776-356499a9-0c5a-4e5d-bf79-c25b54f80f01",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "c4b178ccdbd51b78f19121d1cc2b2c64",
+  "assetLocator": "textures/Untitled_Artwork 2.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 715,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "c4b178ccdbd51b78f19121d1cc2b2c64",
+      "colorCount": 68828,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 8.645862021108517,
+      "pixelsHigh": 1024,
+      "pixelsWide": 715
+    }
+  ]
+}

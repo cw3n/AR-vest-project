@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "vest",
+  "identifier": "texture:434010-5be756d9-f849-4c17-b050-69091b4f2935",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "0b144eeb62cd03bb37bdfff05adef478",
+  "assetLocator": "textures/Untitled_Artwork.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 715,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "0b144eeb62cd03bb37bdfff05adef478",
+      "colorCount": 2238,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 1.5444436452183736,
+      "pixelsHigh": 1024,
+      "pixelsWide": 715
+    }
+  ]
+}
